@@ -1,8 +1,4 @@
-<style>
-   pre { 
-    text-align: center;
-   }
-</style>
+
 
 <pre>
  ██░ ██ ▓█████ ▒██   ██▒  ██████ ▓█████  ▄████▄  
