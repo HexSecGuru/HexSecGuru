@@ -1,4 +1,5 @@
-
+<p align="center">
+  
 ██████╗░███████╗██████╗░░█████╗░██████╗░
 ██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔══██╗
 ██║░░██║█████╗░░██████╦╝██║░░██║██████╦╝
@@ -6,6 +7,7 @@
 ██████╔╝███████╗██████╦╝╚█████╔╝██████╦╝
 ╚═════╝░╚══════╝╚═════╝░░╚════╝░╚═════╝░
 
+</p>
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=codejoaker13&show_icons=true&theme=radical)
@@ -16,5 +18,5 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00FF00&center=true&vCenter=true&lines=ACCESS+GRANTED" alt="Access Granted"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=18&pause=1000&color=FF0000&center=true&vCenter=true&width=600&height=40&lines=--+CODEJOAKER+--" />
+  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=18&pause=1000&color=FF0000&center=true&vCenter=true&width=600&height=40&lines=--+HexSec+--" />
 </p>
