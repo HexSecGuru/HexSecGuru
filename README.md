@@ -1,4 +1,4 @@
-<p align="center">
+<pre align="center">
   ██░ ██ ▓█████ ▒██   ██▒  ██████ ▓█████  ▄████▄  
   ▓██░ ██▒▓█   ▀ ▒▒ █ █ ▒░▒██    ▒ ▓█   ▀ ▒██▀ ▀█  
   ▒██▀▀██░▒███   ░░  █   ░░ ▓██▄   ▒███   ▒▓█    ▄ 
@@ -8,7 +8,7 @@
    ▒ ░▒░ ░ ░ ░  ░░░   ░▒ ░░ ░▒  ░ ░ ░ ░  ░  ░  ▒   
    ░  ░░ ░   ░    ░    ░  ░  ░  ░     ░   ░        
    ░  ░  ░   ░  ░ ░    ░        ░     ░  ░░ ░      
-</p>
+</pre>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codejoaker13&show_icons=true&theme=radical" alt="GitHub Stats" />
