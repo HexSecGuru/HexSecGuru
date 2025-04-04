@@ -1,6 +1,6 @@
 
 
-<pre>
+<h1>
  ██░ ██ ▓█████ ▒██   ██▒  ██████ ▓█████  ▄████▄  
 ▓██░ ██▒▓█   ▀ ▒▒ █ █ ▒░▒██    ▒ ▓█   ▀ ▒██▀ ▀█  
 ▒██▀▀██░▒███   ░░  █   ░░ ▓██▄   ▒███   ▒▓█    ▄ 
@@ -10,7 +10,7 @@
  ▒ ░▒░ ░ ░ ░  ░░░   ░▒ ░░ ░▒  ░ ░ ░ ░  ░  ░  ▒   
  ░  ░░ ░   ░    ░    ░  ░  ░  ░     ░   ░        
  ░  ░  ░   ░  ░ ░    ░        ░     ░  ░░ ░      
-  </pre>                                        
+  </h1>                                        
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=codejoaker13&show_icons=true&theme=radical)
