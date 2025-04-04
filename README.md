@@ -20,3 +20,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Hack&size=18&pause=1000&color=FF0000&center=true&vCenter=true&width=600&height=40&lines=--+HexSec+--" />
 </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
