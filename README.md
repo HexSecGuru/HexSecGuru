@@ -1,10 +1,6 @@
 
-<style>
-  pre {
-    text-align: center;
-  }
-</style>
-<pre>
+
+<center>
  ██░ ██ ▓█████ ▒██   ██▒  ██████ ▓█████  ▄████▄  
 ▓██░ ██▒▓█   ▀ ▒▒ █ █ ▒░▒██    ▒ ▓█   ▀ ▒██▀ ▀█  
 ▒██▀▀██░▒███   ░░  █   ░░ ▓██▄   ▒███   ▒▓█    ▄ 
@@ -14,7 +10,7 @@
  ▒ ░▒░ ░ ░ ░  ░░░   ░▒ ░░ ░▒  ░ ░ ░ ░  ░  ░  ▒   
  ░  ░░ ░   ░    ░    ░  ░  ░  ░     ░   ░        
  ░  ░  ░   ░  ░ ░    ░        ░     ░  ░░ ░      
-  </pre>                                        
+  </center>                                        
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=codejoaker13&show_icons=true&theme=radical)
