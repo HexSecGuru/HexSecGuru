@@ -1,9 +1,3 @@
-➡️ [Explore the encrypted side...](https://github.com/yourname/MysticLabs)
-
-                                                            
-                                                            
-                                                            
-
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=codejoaker13&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codejoaker13&layout=compact&theme=tokyonight)
