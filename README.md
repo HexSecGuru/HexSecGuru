@@ -1,9 +1,7 @@
-<a href="https://hexsecguru.github.io" target="_blank">
-  <img src="https://hexsecguru.github.io/preview.gif" alt="Enter HexSec System" width="100%" />
-</a>
+🚀 **Welcome to HexSec**  
+Your journey begins here: 👉 [https://hexsecguru.github.io](https://hexsecguru.github.io)
 
-> 🚀 **Welcome to HexSec** — click the banner above to enter
-
+*(This will automatically lead you into the system...)*
 
 
 <pre align="center">
