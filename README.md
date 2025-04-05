@@ -1,4 +1,5 @@
-<meta http-equiv="refresh" content="0; url=https://HexSecGuru.github.io">
+[![Welcome to HexSec](https://img.shields.io/badge/🚀-Click%20Here%20For%20My%20Intro%20Screen-00ffcc?style=for-the-badge&logo=github)](https://HexsecGuru.github.io)
+
 
 <pre align="center">
   ██░ ██ ▓█████ ▒██   ██▒  ██████ ▓█████  ▄████▄  
