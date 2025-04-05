@@ -1,4 +1,9 @@
-[![Welcome to HexSec](https://img.shields.io/badge/🚀-Click%20Here%20For%20My%20Intro%20Screen-00ffcc?style=for-the-badge&logo=github)](https://HexsecGuru.github.io)
+<a href="https://hexsecguru.github.io" target="_blank">
+  <img src="https://hexsecguru.github.io/preview.gif" alt="Enter HexSec System" width="100%" />
+</a>
+
+> 🚀 **Welcome to HexSec** — click the banner above to enter
+
 
 
 <pre align="center">
