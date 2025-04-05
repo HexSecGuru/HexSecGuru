@@ -1,3 +1,5 @@
+<meta http-equiv="refresh" content="0; url=https://HexSecGuru.github.io">
+
 <pre align="center">
   ██░ ██ ▓█████ ▒██   ██▒  ██████ ▓█████  ▄████▄  
   ▓██░ ██▒▓█   ▀ ▒▒ █ █ ▒░▒██    ▒ ▓█   ▀ ▒██▀ ▀█  
