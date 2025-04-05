@@ -1,7 +1,8 @@
-🚀 **Welcome to HexSec**  
-Your journey begins here: 👉 [https://hexsecguru.github.io](https://hexsecguru.github.io)
-
-*(This will automatically lead you into the system...)*
+<p align="center">
+  <a href="https://hexsecguru.github.io">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Enter+HexSec+System" alt="Enter HexSec" />
+  </a>
+</p>
 
 
 <pre align="center">
