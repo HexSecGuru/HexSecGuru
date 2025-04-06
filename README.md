@@ -1,86 +1,36 @@
-# 👩‍💻 Δήμητρα Κατσαρού  
-**Aspiring Cybersecurity & IT Professional**  
-📍 Athens, Greece | 📧 [Dimitra_kat5@hotmail.com](mailto:Dimitra_kat5@hotmail.com)
+<p align="center">
+  <a href="https://hexsecguru.github.io">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Enter+HexSec+System" alt="Enter HexSec" />
+  </a>
+</p>
 
----
 
-## 🧭 About Me
+<pre align="center">
+  ██░ ██ ▓█████ ▒██   ██▒  ██████ ▓█████  ▄████▄  
+  ▓██░ ██▒▓█   ▀ ▒▒ █ █ ▒░▒██    ▒ ▓█   ▀ ▒██▀ ▀█  
+  ▒██▀▀██░▒███   ░░  █   ░░ ▓██▄   ▒███   ▒▓█    ▄ 
+  ░▓█ ░██ ▒▓█  ▄  ░ █ █ ▒   ▒   ██▒▒▓█  ▄ ▒▓▓▄ ▄██▒
+  ░▓█▒░██▓░▒████▒▒██▒ ▒██▒▒██████▒▒░▒████▒▒ ▓███▀ ░
+   ▒ ░░▒░▒░░ ▒░ ░▒▒ ░ ░▓ ░▒ ▒▓▒ ▒ ░░░ ▒░ ░░ ░▒ ▒  ░
+   ▒ ░▒░ ░ ░ ░  ░░░   ░▒ ░░ ░▒  ░ ░ ░ ░  ░  ░  ▒   
+   ░  ░░ ░   ░    ░    ░  ░  ░  ░     ░   ░        
+   ░  ░  ░   ░  ░ ░    ░        ░     ░  ░░ ░      
+</pre>
 
-Hello! I’m Δήμητρα, a dedicated and detail-oriented professional currently **transitioning into the field of cybersecurity and software development**.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HexSecGuru&show_icons=true&theme=radical" alt="GitHub Stats" />
+ 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codejoaker13&layout=compact&theme=radical" alt="Top Languages" />
+ 
+</p>
 
-With a background in **IT support, technical sales, and administrative roles**, I’ve developed strong problem-solving and organizational skills — and now I’m expanding those into the world of technology and digital security.
 
-🔐 **Currently Studying:** Software Development @ ΙΕΚ Πληροφορικής  
-📚 **Focused On:** Cybersecurity, Programming (HTML, C, C++), and IT Support  
-💼 **Available for:** Entry-level roles in Cybersecurity, Help Desk, and IT Support
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=%24+Initializing+System...;Access+Granted+%E2%9C%94;Welcome+to+the+Matrix...)](https://git.io/typing-svg)
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00FF00&center=true&vCenter=true&lines=ACCESS+GRANTED" alt="Access Granted" />
+</p>
 
-## 🛠️ Skills
-
-- **Programming:** HTML, C, C++ *(beginner level)*
-- **Cybersecurity:** Basic knowledge of digital threats, phishing, and data protection *(learning)*
-- **IT Tools:** Microsoft Office, ERP systems, OBS Studio
-- **Soft Skills:** Teamwork, fast learning, adaptability, customer service
-
----
-
-## 📈 Current Goals
-
-- ✅ Build hands-on experience through personal cybersecurity projects  
-- 🔐 Learn the foundations of ethical hacking & digital forensics  
-- 📁 Share beginner projects on GitHub (Python, C, security scripts)  
-- 🎓 Study for certifications like CompTIA Security+ or Google Cybersecurity
-
----
-
-## 🧪 Learning Projects (In Progress)
-
-| Project Idea | Goal | Status |
-|--------------|------|--------|
-| Password Strength Checker | Understand password security & hashing | 🟡 In progress |
-| Phishing Email Detector | Learn to analyze headers & links | ⬜ Coming soon |
-| Simple Port Scanner (Python) | Get started with network scanning tools | ⬜ Planned |
-| Cybersecurity Blog | Share beginner tips & learning journey | 🟢 Live soon |
-
----
-
-## 📌 Experience Highlights
-
-**💼 IL TORRO**  
-*Accounting & Payroll Assistant (2024 – Present)*  
-- Managed employee documents and supported payroll systems  
-- Worked with cost analysis and budgeting tools
-
-**💼 Bread Factory**  
-*Office Support & Costing (2023 – 2024)*  
-- Assisted in recipe documentation and logistics  
-- Supported production and procurement operations
-
-**🧑‍💻 BeSmart**  
-*Sales & Technical Support (2022 – 2023)*  
-- Provided technical assistance for gadgets and software  
-- Hands-on troubleshooting and customer training
-
----
-
-## 🌱 A Lifelong Learner
-
-I'm deeply passionate about **technology, data, and digital security**. My goal is to grow every day as a cybersecurity professional — starting from the basics, building real projects, and learning by doing.
-
----
-
-> 💬 *“Every expert was once a beginner — I’m ready to grow into the next one.”*
-
----
-
-## 📫 Let’s Connect
-
-- 📧 Email: [Dimitra_kat5@hotmail.com](mailto:Dimitra_kat5@hotmail.com)
-- 💻 GitHub: [github.com/yourusername](https://github.com/yourusername) *(update this after signup)*
-
----
-
-## 🖼️ Optional Add-ons
-
-> Want me to generate a **cyber-themed banner** or **profile avatar** for GitHub? I can do that too, just say the word! 🧠⚡
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=18&pause=1000&color=FF0000&center=true&vCenter=true&width=600&height=40&lines=--+HexSec+--" alt="HexSec" />
+</p>
