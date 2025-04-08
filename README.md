@@ -4,24 +4,18 @@
   
   ![Hacker GIF](https://media.giphy.com/media/115BJle6N2Av0A/giphy.gif)
   
-  ### Cybersecurity Explorer | Ethical Hacker in Training | Coder
+  ### Cybersecurity Explorer | Ethical Hacker | Code Breaker
   
+  [![Website](https://img.shields.io/badge/Website-hexsecguru.github.io-brightgreen?style=flat-square)](https://hexsecguru.github.io)
   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HexSecGuru.HexSecGuru)
   [![Twitter](https://img.shields.io/twitter/follow/HexSecGuru?style=social)](https://twitter.com/HexSecGuru)
   
 </div>
 
 ## 💀 About Me
-```python
-class HexSecGuru:
-    def __init__(self):
-        self.name = "HexSecGuru"
-        self.role = "Security Researcher"
-        self.skills = ["Penetration Testing", "Python", "Linux"]
-        self.learning = ["Network Security", "Web Exploitation", "OSINT"]
-        
-    def current_focus(self):
-        return "Breaking things legally"
+```
+Young security researcher with a passion for breaking and securing systems.
+Focused on learning real-world hacking techniques and building practical security tools.
 ```
 
 ## ⚔️ My Arsenal
@@ -58,5 +52,7 @@ class HexSecGuru:
 <div align="center">
   
   ### "If there is a way in, there is a way out."
+  
+  [🌐 Check out my website](https://hexsecguru.github.io)
   
 </div>
