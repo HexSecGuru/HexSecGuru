@@ -1,23 +1,38 @@
-# 0xShadow | Systems & Software
+## Nikos (0xShadow)
 
-**Systems-oriented developer** specializing in backend architecture and hardware-software integration. 
+Developer focused on building simple, effective solutions — from websites for local businesses to small-scale systems and automation.
+
+---
+
+### What I Do
+- Build fast, clean websites for real-world use
+- Work with backend logic and simple system design
+- Explore hardware + software integration (IoT, automation)
 
 ---
 
-### 🏗️ Infrastructure
-* **Storage:** TrueNAS Scale (Salvaged Enterprise Hardware)
-* **Compute:** Raspberry Pi 4B (4GB) Cluster
-* **Edge:** ESP32 nodes / Custom Firmware
-* **Fabrication:** Ender 3 V3 SE / DJI Mini 4K
-
-### 🛠️ Active Learning
-* **Languages:** Python, JavaScript (Node.js), C++, Bash
-* **Tools:** Docker, Linux, MQTT, ZFS, Tailscale
-
-### 📂 Focus Areas
-* **Hardware Restoration:** Diagnosing and reviving EOL enterprise components.
-* **System Mapping:** Visualizing complex logic flows and 3D architectural bottlenecks.
-* **Automation:** Bridging IoT telemetry with centralized backend logic.
+### Tech Stack
+- Python, JavaScript (Node.js), C++, Bash
+- Linux, Docker, MQTT
+- Basic networking & self-hosting
 
 ---
-*Self-hosted. System-driven. Always learning.*
+
+### Projects
+- Local business websites (portfolio demos)
+- Small automation systems (ESP32 / Raspberry Pi)
+- Personal infrastructure experiments
+
+---
+
+### Currently Learning
+- Better backend architecture
+- System design fundamentals
+- Scaling simple projects into real services
+
+---
+
+### About
+I like building practical things that actually get used — not just projects that sit on GitHub.
+
+Currently focused on helping local businesses get online with simple, effective websites.
